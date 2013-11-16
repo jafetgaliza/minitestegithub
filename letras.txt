@@ -10,7 +10,7 @@ qrstu
 master
 
 b1
-=======
+
 
 b2
->>>>>>> refs/heads/b2
+
